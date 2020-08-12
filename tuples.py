@@ -1,0 +1,6 @@
+x = (1, 2, 3)
+print(type(x))
+print(dir(x))
+xx = (1,)
+print(xx)
+print(type(xx))
